@@ -1,6 +1,6 @@
 # river.rb
 class River 
-  attr_writer :name, :length, :countries. :discharge
+  attr_writer :name, :length, :countries, :discharge
   def initialize(name) 
     @name = name 
   end 
